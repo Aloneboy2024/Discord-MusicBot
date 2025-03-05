@@ -72,10 +72,9 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
 <a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
 </a>
-
 ## 🌟 | Made with
 
-- [Discord.js](https://discord.js.org/)
+- [telegram](https://t.me/INFINIX_4K /)
 - [Lavalink](https://github.com/freyacodes/Lavalink) with erela.js
 - [Express](https://expressjs.com/)
 - [Next JS](https://nextjs.org/)
